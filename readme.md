@@ -1,4 +1,4 @@
-# Flip ID Transaction Page Clone
+# Flip ID Transaction Page
 
 How to run this repository:
 
@@ -11,14 +11,6 @@ $ yarn install
 ```
 
 ### Step 2
-
-Link the react-native-vector-icons asset
-
-```sh
-$ react-native link
-```
-
-### Step 3
 
 Finally run your project
 
